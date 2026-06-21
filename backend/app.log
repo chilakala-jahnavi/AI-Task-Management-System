@@ -1,0 +1,916 @@
+2026-06-20 14:47:05,465 - __main__ - INFO - Creating database tables...
+2026-06-20 14:49:36,784 - __main__ - INFO - Creating database tables...
+2026-06-20 14:49:37,605 - app.main - INFO - Creating database tables...
+2026-06-20 14:50:03,373 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 14:50:03,480 - app.main - INFO - Creating database tables...
+2026-06-20 14:50:03,513 - app.main - INFO - ============================================================
+2026-06-20 14:50:03,542 - app.main - INFO - ============================================================
+2026-06-20 14:50:03,543 - app.main - INFO - Environment: development
+2026-06-20 14:50:03,543 - app.main - INFO - Version: 1.0.0
+2026-06-20 14:50:03,543 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 14:50:03,544 - app.main - INFO - Docs URL: /docs
+2026-06-20 14:50:03,544 - app.main - INFO - Health Check: /health
+2026-06-20 14:50:03,572 - app.main - INFO - ============================================================
+2026-06-20 14:50:03,579 - app.main - INFO - ============================================================
+2026-06-20 14:52:32,852 - app.main - ERROR - Database health check failed: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2026-06-20 15:02:09,891 - __main__ - INFO - Creating database tables...
+2026-06-20 15:02:09,984 - app.main - INFO - Creating database tables...
+2026-06-20 15:02:50,561 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:02:50,651 - app.main - INFO - Creating database tables...
+2026-06-20 15:02:50,684 - app.main - INFO - ============================================================
+2026-06-20 15:02:50,711 - app.main - INFO - ============================================================
+2026-06-20 15:02:50,711 - app.main - INFO - Environment: development
+2026-06-20 15:02:50,711 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:02:50,711 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:02:50,711 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:02:50,712 - app.main - INFO - Health Check: /health
+2026-06-20 15:02:50,739 - app.main - INFO - ============================================================
+2026-06-20 15:02:50,745 - app.main - INFO - ============================================================
+2026-06-20 15:03:07,378 - app.main - ERROR - Database health check failed: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2026-06-20 15:03:29,656 - app.main - ERROR - Database health check failed: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2026-06-20 15:11:29,957 - __main__ - INFO - Creating database tables...
+2026-06-20 15:11:30,040 - app.main - INFO - Creating database tables...
+2026-06-20 15:11:58,091 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:11:58,191 - app.main - INFO - Creating database tables...
+2026-06-20 15:11:58,222 - app.main - INFO - ============================================================
+2026-06-20 15:11:58,252 - app.main - INFO - ============================================================
+2026-06-20 15:11:58,252 - app.main - INFO - Environment: development
+2026-06-20 15:11:58,252 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:11:58,253 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:11:58,253 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:11:58,253 - app.main - INFO - Health Check: /health
+2026-06-20 15:11:58,284 - app.main - INFO - ============================================================
+2026-06-20 15:11:58,291 - app.main - INFO - ============================================================
+2026-06-20 15:12:05,472 - app.main - ERROR - Database health check failed: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2026-06-20 15:12:59,345 - app.main - ERROR - Database health check failed: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2026-06-20 15:15:40,591 - __main__ - INFO - Creating database tables...
+2026-06-20 15:15:40,673 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:15:40,687 - app.main - INFO - Creating database tables...
+2026-06-20 15:15:40,708 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:16:06,513 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:16:06,567 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:16:06,598 - app.main - INFO - Creating database tables...
+2026-06-20 15:16:06,610 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:16:06,613 - app.main - INFO - ============================================================
+2026-06-20 15:16:06,613 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-20 15:16:06,614 - app.main - INFO - ============================================================
+2026-06-20 15:16:06,614 - app.main - INFO - Environment: development
+2026-06-20 15:16:06,614 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:16:06,614 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:16:06,614 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:16:06,615 - app.main - INFO - Health Check: /health
+2026-06-20 15:16:06,615 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-20 15:16:06,615 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-20 15:16:06,615 - app.main - INFO - [OK] FAISS index: 0 chunks loaded
+2026-06-20 15:16:06,616 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-20 15:16:06,616 - app.main - INFO - ============================================================
+2026-06-20 15:16:06,616 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-20 15:16:06,616 - app.main - INFO - ============================================================
+2026-06-20 15:16:25,685 - app.main - INFO - GET /health -> 200 (0.03s)
+2026-06-20 15:17:17,546 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-20 15:17:17,569 - app.main - ERROR - Request failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:17:17,570 - app.main - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\main.py", line 326, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 690, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 346, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    result = context.run(func, *args)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\api\routes\auth.py", line 12, in register
+    user = AuthService.register_user(
+        db=db,
+    ...<3 lines>...
+        role=user_data.role
+    )
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\services\auth_service.py", line 19, in register_user
+    hashed = get_password_hash(password)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\core\security.py", line 13, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:17:52,887 - app.main - INFO - GET /api/v1/auth/register -> 405 (0.00s)
+2026-06-20 15:18:33,765 - app.main - INFO - GET /api/v1/documents/upload -> 405 (0.00s)
+2026-06-20 15:19:23,525 - app.main - INFO - GET /docs -> 200 (0.00s)
+2026-06-20 15:19:23,892 - app.main - INFO - GET /api/v1/openapi.json -> 200 (0.06s)
+2026-06-20 15:20:43,400 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-20 15:20:43,421 - app.main - ERROR - Request failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:20:43,422 - app.main - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\main.py", line 326, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 690, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 346, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    result = context.run(func, *args)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\api\routes\auth.py", line 12, in register
+    user = AuthService.register_user(
+        db=db,
+    ...<3 lines>...
+        role=user_data.role
+    )
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\services\auth_service.py", line 19, in register_user
+    hashed = get_password_hash(password)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\core\security.py", line 13, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:21:08,750 - app.main - INFO - GET /api/v1/auth/register -> 405 (0.00s)
+2026-06-20 15:22:20,727 - app.main - INFO - GET /health -> 200 (0.00s)
+2026-06-20 15:28:04,736 - __main__ - INFO - Creating database tables...
+2026-06-20 15:28:04,793 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:28:04,806 - app.main - INFO - Creating database tables...
+2026-06-20 15:28:04,821 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:28:29,419 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:28:29,477 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:28:29,509 - app.main - INFO - Creating database tables...
+2026-06-20 15:28:29,522 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:28:29,526 - app.main - INFO - ============================================================
+2026-06-20 15:28:29,526 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-20 15:28:29,526 - app.main - INFO - ============================================================
+2026-06-20 15:28:29,526 - app.main - INFO - Environment: development
+2026-06-20 15:28:29,527 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:28:29,527 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:28:29,527 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:28:29,527 - app.main - INFO - Health Check: /health
+2026-06-20 15:28:29,527 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-20 15:28:29,528 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-20 15:28:29,528 - app.main - INFO - [OK] FAISS index: 0 chunks loaded
+2026-06-20 15:28:29,528 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-20 15:28:29,528 - app.main - INFO - ============================================================
+2026-06-20 15:28:29,529 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-20 15:28:29,529 - app.main - INFO - ============================================================
+2026-06-20 15:28:45,856 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-20 15:28:45,878 - app.main - ERROR - Request failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:28:45,879 - app.main - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\main.py", line 326, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 690, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 346, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    result = context.run(func, *args)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\api\routes\auth.py", line 12, in register
+    user = AuthService.register_user(
+        db=db,
+    ...<3 lines>...
+        role=user_data.role
+    )
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\services\auth_service.py", line 19, in register_user
+    hashed = get_password_hash(password)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\core\security.py", line 13, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:29:01,923 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-20 15:29:01,943 - app.main - ERROR - Request failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:29:01,944 - app.main - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\main.py", line 326, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 690, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 346, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    result = context.run(func, *args)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\api\routes\auth.py", line 12, in register
+    user = AuthService.register_user(
+        db=db,
+    ...<3 lines>...
+        role=user_data.role
+    )
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\services\auth_service.py", line 19, in register_user
+    hashed = get_password_hash(password)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\core\security.py", line 13, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:29:59,953 - app.main - INFO - GET /health -> 200 (0.03s)
+2026-06-20 15:30:00,134 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-20 15:30:00,156 - app.main - ERROR - Request failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:30:00,158 - app.main - ERROR - Unhandled exception: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 193, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\main.py", line 326, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 168, in call_next
+    raise app_exc from app_exc.__cause__ or app_exc.__context__
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 690, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\fastapi\routing.py", line 346, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\starlette\concurrency.py", line 34, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    result = context.run(func, *args)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\api\routes\auth.py", line 12, in register
+    user = AuthService.register_user(
+        db=db,
+    ...<3 lines>...
+        role=user_data.role
+    )
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\services\auth_service.py", line 19, in register_user
+    hashed = get_password_hash(password)
+  File "C:\Users\Lenovo\OneDrive\Desktop\project1\task-management-system\backend\app\core\security.py", line 13, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Lenovo\anaconda3\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-06-20 15:34:14,439 - __main__ - INFO - Creating database tables...
+2026-06-20 15:34:14,495 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:34:14,502 - app.main - INFO - Creating database tables...
+2026-06-20 15:34:14,515 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:34:44,261 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:34:44,320 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:34:44,361 - app.main - INFO - Creating database tables...
+2026-06-20 15:34:44,370 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:34:44,374 - app.main - INFO - ============================================================
+2026-06-20 15:34:44,374 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-20 15:34:44,374 - app.main - INFO - ============================================================
+2026-06-20 15:34:44,374 - app.main - INFO - Environment: development
+2026-06-20 15:34:44,375 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:34:44,375 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:34:44,375 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:34:44,375 - app.main - INFO - Health Check: /health
+2026-06-20 15:34:44,376 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-20 15:34:44,376 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-20 15:34:44,376 - app.main - INFO - [OK] FAISS index: 0 chunks loaded
+2026-06-20 15:34:44,376 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-20 15:34:44,376 - app.main - INFO - ============================================================
+2026-06-20 15:34:44,377 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-20 15:34:44,377 - app.main - INFO - ============================================================
+2026-06-20 15:35:22,319 - app.main - INFO - POST /api/v1/auth/register -> 200 (0.15s)
+2026-06-20 15:35:48,621 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:36:18,453 - app.main - INFO - GET /api/v1/auth/login -> 405 (0.03s)
+2026-06-20 15:36:21,613 - app.main - INFO - GET /api/v1/auth/login -> 405 (0.00s)
+2026-06-20 15:36:22,643 - app.main - INFO - GET /api/v1/auth/login -> 405 (0.00s)
+2026-06-20 15:36:26,516 - app.main - INFO - GET /api/v1/auth/register -> 405 (0.00s)
+2026-06-20 15:36:33,084 - app.main - INFO - GET /docs -> 200 (0.00s)
+2026-06-20 15:36:33,340 - app.main - INFO - GET /api/v1/openapi.json -> 200 (0.06s)
+2026-06-20 15:38:14,631 - app.main - INFO - POST /api/v1/auth/register -> 400 (0.01s)
+2026-06-20 15:38:56,390 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:39:28,162 - app.main - INFO - GET /api/v1/auth/login -> 405 (0.00s)
+2026-06-20 15:40:17,552 - app.main - INFO - POST /api/v1/documents/upload -> 401 (0.02s)
+2026-06-20 15:41:28,104 - app.main - INFO - POST /api/v1/tasks/ -> 401 (0.03s)
+2026-06-20 15:42:09,148 - app.main - INFO - GET /api/v1/analytics/dashboard -> 401 (0.02s)
+2026-06-20 15:45:15,048 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:48:24,657 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.07s)
+2026-06-20 15:48:41,456 - multipart.multipart - WARNING - Did not find boundary character 123 at index 2
+2026-06-20 15:48:41,457 - app.main - INFO - POST /api/v1/documents/upload -> 400 (0.00s)
+2026-06-20 15:49:25,173 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:49:27,535 - app.main - INFO - POST /api/v1/documents/upload -> 200 (0.31s)
+2026-06-20 15:50:10,258 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:50:12,292 - app.main - INFO - GET /api/v1/documents -> 307 (0.00s)
+2026-06-20 15:50:12,306 - app.main - INFO - GET /api/v1/documents/ -> 200 (0.01s)
+2026-06-20 15:50:29,643 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.05s)
+2026-06-20 15:50:31,687 - app.main - INFO - POST /api/v1/tasks -> 307 (0.00s)
+2026-06-20 15:50:31,729 - app.main - INFO - POST /api/v1/tasks/ -> 200 (0.04s)
+2026-06-20 15:50:46,450 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.03s)
+2026-06-20 15:50:48,482 - app.main - INFO - GET /api/v1/search -> 307 (0.00s)
+2026-06-20 15:50:48,538 - app.main - INFO - GET /api/v1/search/ -> 200 (0.05s)
+2026-06-20 15:51:07,495 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.05s)
+2026-06-20 15:51:09,586 - app.main - INFO - GET /api/v1/analytics/dashboard -> 200 (0.07s)
+2026-06-20 15:51:43,464 - app.main - INFO - GET /api/v1/analytics/dashboard -> 401 (0.00s)
+2026-06-20 15:53:31,364 - __main__ - INFO - Creating database tables...
+2026-06-20 15:53:31,465 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:53:31,476 - app.main - INFO - Creating database tables...
+2026-06-20 15:53:31,489 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:53:56,507 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 15:53:56,591 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:53:56,625 - app.main - INFO - Creating database tables...
+2026-06-20 15:53:56,635 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 15:53:56,639 - app.main - INFO - ============================================================
+2026-06-20 15:53:56,639 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-20 15:53:56,639 - app.main - INFO - ============================================================
+2026-06-20 15:53:56,639 - app.main - INFO - Environment: development
+2026-06-20 15:53:56,640 - app.main - INFO - Version: 1.0.0
+2026-06-20 15:53:56,640 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 15:53:56,640 - app.main - INFO - Docs URL: /docs
+2026-06-20 15:53:56,640 - app.main - INFO - Health Check: /health
+2026-06-20 15:53:56,641 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-20 15:53:56,641 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-20 15:53:56,641 - app.main - INFO - [OK] FAISS index: 1 chunks loaded
+2026-06-20 15:53:56,641 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-20 15:53:56,641 - app.main - INFO - ============================================================
+2026-06-20 15:53:56,642 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-20 15:53:56,642 - app.main - INFO - ============================================================
+2026-06-20 15:54:19,624 - app.main - INFO - GET /docs -> 200 (0.03s)
+2026-06-20 15:54:19,854 - app.main - INFO - GET /api/v1/openapi.json -> 200 (0.07s)
+2026-06-20 15:54:32,865 - app.main - INFO - POST /api/v1/tasks/ -> 401 (0.02s)
+2026-06-20 15:54:53,725 - app.main - INFO - GET /health -> 200 (0.01s)
+2026-06-20 15:54:58,490 - app.main - INFO - GET /redoc -> 200 (0.00s)
+2026-06-20 15:55:54,090 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.07s)
+2026-06-20 15:55:56,481 - app.main - INFO - POST /api/v1/documents/upload -> 200 (0.33s)
+2026-06-20 15:57:09,800 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 15:57:11,843 - app.main - INFO - POST /api/v1/tasks -> 307 (0.00s)
+2026-06-20 15:57:11,894 - app.main - INFO - POST /api/v1/tasks/ -> 200 (0.05s)
+2026-06-20 19:55:13,295 - __main__ - INFO - Creating database tables...
+2026-06-20 19:55:13,573 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 19:55:13,587 - app.main - INFO - Creating database tables...
+2026-06-20 19:55:13,613 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 19:55:40,488 - __mp_main__ - INFO - Creating database tables...
+2026-06-20 19:55:40,561 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-20 19:55:40,594 - app.main - INFO - Creating database tables...
+2026-06-20 19:55:40,606 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-20 19:55:40,609 - app.main - INFO - ============================================================
+2026-06-20 19:55:40,609 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-20 19:55:40,609 - app.main - INFO - ============================================================
+2026-06-20 19:55:40,610 - app.main - INFO - Environment: development
+2026-06-20 19:55:40,610 - app.main - INFO - Version: 1.0.0
+2026-06-20 19:55:40,610 - app.main - INFO - API Prefix: /api/v1
+2026-06-20 19:55:40,610 - app.main - INFO - Docs URL: /docs
+2026-06-20 19:55:40,610 - app.main - INFO - Health Check: /health
+2026-06-20 19:55:40,611 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-20 19:55:40,611 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-20 19:55:40,611 - app.main - INFO - [OK] FAISS index: 2 chunks loaded
+2026-06-20 19:55:40,612 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-20 19:55:40,612 - app.main - INFO - ============================================================
+2026-06-20 19:55:40,612 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-20 19:55:40,613 - app.main - INFO - ============================================================
+2026-06-20 21:41:24,804 - app.main - INFO - OPTIONS /api/v1/auth/login -> 200 (0.01s)
+2026-06-20 21:41:25,352 - app.main - INFO - POST /api/v1/auth/login -> 401 (0.52s)
+2026-06-20 21:41:32,106 - app.main - INFO - POST /api/v1/auth/login -> 401 (0.01s)
+2026-06-20 21:41:41,455 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.10s)
+2026-06-20 21:50:23,659 - app.main - INFO - OPTIONS /api/v1/auth/login -> 200 (0.01s)
+2026-06-20 21:50:24,024 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.34s)
+2026-06-20 21:52:36,281 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-20 21:52:55,664 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.06s)
+2026-06-21 08:24:44,625 - __main__ - INFO - Creating database tables...
+2026-06-21 08:24:44,860 - __main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-21 08:24:44,867 - app.main - INFO - Creating database tables...
+2026-06-21 08:24:44,877 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-21 08:25:09,381 - __mp_main__ - INFO - Creating database tables...
+2026-06-21 08:25:09,433 - __mp_main__ - INFO - [OK] Database tables created/verified successfully
+2026-06-21 08:25:09,471 - app.main - INFO - Creating database tables...
+2026-06-21 08:25:09,483 - app.main - INFO - [OK] Database tables created/verified successfully
+2026-06-21 08:25:09,489 - app.main - INFO - ============================================================
+2026-06-21 08:25:09,489 - app.main - INFO - [START] STARTING TASK MANAGEMENT SYSTEM
+2026-06-21 08:25:09,489 - app.main - INFO - ============================================================
+2026-06-21 08:25:09,490 - app.main - INFO - Environment: development
+2026-06-21 08:25:09,490 - app.main - INFO - Version: 1.0.0
+2026-06-21 08:25:09,490 - app.main - INFO - API Prefix: /api/v1
+2026-06-21 08:25:09,490 - app.main - INFO - Docs URL: /docs
+2026-06-21 08:25:09,490 - app.main - INFO - Health Check: /health
+2026-06-21 08:25:09,491 - app.main - INFO - [OK] Database: localhost:3306/task_management
+2026-06-21 08:25:09,491 - app.main - INFO - [OK] Embedding model: all-MiniLM-L6-v2
+2026-06-21 08:25:09,491 - app.main - INFO - [OK] FAISS index: 2 chunks loaded
+2026-06-21 08:25:09,492 - app.main - INFO - [OK] CORS origins: ['http://localhost:3000', 'http://127.0.0.1:3000', 'http://localhost:3001']
+2026-06-21 08:25:09,492 - app.main - INFO - ============================================================
+2026-06-21 08:25:09,492 - app.main - INFO - [OK] APPLICATION STARTUP COMPLETE
+2026-06-21 08:25:09,492 - app.main - INFO - ============================================================
+2026-06-21 08:42:27,649 - app.main - INFO - OPTIONS /api/v1/auth/me -> 200 (0.01s)
+2026-06-21 08:42:27,658 - app.main - INFO - OPTIONS /api/v1/auth/me -> 200 (0.01s)
+2026-06-21 08:42:27,718 - app.main - INFO - GET /api/v1/auth/me -> 404 (0.06s)
+2026-06-21 08:42:27,722 - app.main - INFO - GET /api/v1/auth/me -> 404 (0.00s)
+2026-06-21 08:42:30,834 - app.main - INFO - OPTIONS /api/v1/auth/login -> 200 (0.00s)
+2026-06-21 08:42:31,049 - app.main - INFO - POST /api/v1/auth/login -> 200 (0.21s)
+2026-06-21 08:42:31,121 - app.main - INFO - OPTIONS /api/v1/tasks -> 200 (0.00s)
+2026-06-21 08:42:31,125 - app.main - INFO - OPTIONS /api/v1/analytics/dashboard -> 200 (0.00s)
+2026-06-21 08:42:31,128 - app.main - INFO - OPTIONS /api/v1/analytics/dashboard -> 200 (0.00s)
+2026-06-21 08:42:31,129 - app.main - INFO - OPTIONS /api/v1/tasks -> 200 (0.00s)
+2026-06-21 08:42:31,173 - app.main - INFO - GET /api/v1/tasks -> 307 (0.04s)
+2026-06-21 08:42:31,181 - app.main - INFO - GET /api/v1/tasks -> 307 (0.00s)
+2026-06-21 08:42:31,185 - app.main - INFO - OPTIONS /api/v1/tasks/ -> 200 (0.00s)
+2026-06-21 08:42:31,201 - app.main - INFO - OPTIONS /api/v1/tasks/ -> 200 (0.00s)
+2026-06-21 08:42:31,242 - app.main - INFO - GET /api/v1/analytics/dashboard -> 200 (0.11s)
+2026-06-21 08:42:31,297 - app.main - INFO - GET /api/v1/analytics/dashboard -> 200 (0.05s)
+2026-06-21 08:42:31,341 - app.main - INFO - GET /api/v1/tasks/ -> 200 (0.14s)
+2026-06-21 08:42:31,348 - app.main - INFO - GET /api/v1/tasks/ -> 200 (0.00s)
+2026-06-21 08:42:56,692 - app.main - INFO - OPTIONS /api/v1/activities -> 200 (0.00s)
+2026-06-21 08:42:56,694 - app.main - INFO - OPTIONS /api/v1/activities -> 200 (0.00s)
+2026-06-21 08:42:56,696 - app.main - INFO - GET /api/v1/activities -> 404 (0.00s)
+2026-06-21 08:42:56,700 - app.main - INFO - GET /api/v1/activities -> 404 (0.00s)
+2026-06-21 08:43:02,703 - app.main - INFO - GET /api/v1/activities -> 404 (0.00s)
+2026-06-21 08:43:22,709 - app.main - INFO - GET /api/v1/tasks -> 307 (0.00s)
+2026-06-21 08:43:22,713 - app.main - INFO - GET /api/v1/tasks -> 307 (0.00s)
+2026-06-21 08:43:22,728 - app.main - INFO - GET /api/v1/tasks/ -> 200 (0.01s)
+2026-06-21 08:43:22,741 - app.main - INFO - GET /api/v1/analytics/dashboard -> 200 (0.03s)
+2026-06-21 08:43:22,742 - app.main - INFO - GET /api/v1/tasks/ -> 200 (0.01s)
+2026-06-21 08:44:28,744 - app.main - INFO - OPTIONS /api/v1/tasks/1 -> 200 (0.00s)
+2026-06-21 08:44:28,757 - app.main - INFO - PATCH /api/v1/tasks/1 -> 422 (0.01s)
+2026-06-21 08:44:30,889 - app.main - INFO - PATCH /api/v1/tasks/1 -> 422 (0.01s)
+2026-06-21 08:46:43,195 - app.main - INFO - PATCH /api/v1/tasks/1 -> 422 (0.01s)
+2026-06-21 08:46:44,736 - app.main - INFO - PATCH /api/v1/tasks/1 -> 422 (0.00s)
